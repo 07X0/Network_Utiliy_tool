@@ -19,7 +19,8 @@ Project Structure
 
 Network_Utiliy_tool/
 │
-├── README.md
+├── README_en.md
+├── README_de.md
 ├── .gitignore
 │
 ├── Console-Version/
