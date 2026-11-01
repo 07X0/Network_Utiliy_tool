@@ -21,20 +21,21 @@ Features
 Technologies
 
 - Python 3
-- Tkinter
+- customtkinter
 - Socket Programming
 - ThreadPoolExecutor
 
 Requirements
 
 - Python 3
-- Tkinter
+- customtkinter
+- scapy
 
 Install Tkinter separately on Linux if it is not already available.
 
 For Debian and Ubuntu:
 
-sudo apt install python3-tk
+pip install customtkinter scapy
 
 Run
 
@@ -51,3 +52,8 @@ Author
 Marwan Al Khateeb
 
 GitHub: https://github.com/07X0
+
+
+<img width="1916" height="1007" alt="Screenshot 2026-11-01 214710" src="https://github.com/user-attachments/assets/a023d83f-944f-40c5-9924-31c886beb7d7" />
+<img width="1917" height="1010" alt="Screenshot 2026-11-01 214752" src="https://github.com/user-attachments/assets/5cae5b11-fe12-463f-b9e4-46fdd1abe63d" />
+
