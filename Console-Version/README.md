@@ -53,3 +53,6 @@ Author
 Marwan Al Khateeb
 
 GitHub: https://github.com/07X0
+
+<img width="1912" height="742" alt="Screenshot 2026-11-01 215459" src="https://github.com/user-attachments/assets/03917058-4aa4-4e64-ad8b-426d24e5d6cb" />
+
